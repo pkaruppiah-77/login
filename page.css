@@ -1,0 +1,17 @@
+.one{
+    border-width: 2px;
+    box-shadow: 10px 10px 0px 0px;
+    border-radius:10px;                         
+    padding: 10px;
+    border-style: solid;
+    width: 280px;
+    margin-left: 600px;
+    display:inline-block;
+}
+.two{
+    padding-top: 20px;
+}
+.four{
+    display: flex;
+    margin-left: 40px;
+}
