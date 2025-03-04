@@ -1,3 +1,8 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .one{
     border-width: 2px;
     box-shadow: 10px 10px 0px 0px;
@@ -5,13 +10,19 @@
     padding: 10px;
     border-style: solid;
     width: 280px;
-    margin-left: 600px;
-    display:inline-block;
+    display:flex;
+    align-self: center;
+    justify-self: center;
 }
 .two{
-    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px 0 0 0;
 }
 .four{
     display: flex;
-    margin-left: 40px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 30px;
 }
